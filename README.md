@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @abhishekkang
-- 👀 I’m interested in Java and Web development 
-- 🌱 I’m currently learning Web Devlopment 
-- 💞️ I’m looking to collaborate on Java Projects and Frontend projects
+- 👀 I’m just here to use GPkit for aircraft optimization  
 - 📫 How to reach me abh0207@gmail.com
 
 <!---

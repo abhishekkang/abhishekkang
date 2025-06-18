@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abhishekkang
-- 👀 I’m just here to use GPkit for aircraft optimization  
+- 👀 Mechanical Design and Optimization engineer  
 - 📫 How to reach me abh0207@gmail.com
 
 <!---

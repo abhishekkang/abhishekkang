@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abhishekkang
-- 👀 Mechanical Design and Optimization engineer  
+- Mechanical Design and Optimization engineer  
 - 📫 How to reach me abh0207@gmail.com
 
 <!---
